@@ -1,7 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-
 class AppDescription extends React.Component {
   render() {
     return (
